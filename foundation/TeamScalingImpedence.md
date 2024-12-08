@@ -24,3 +24,7 @@ There is much written about team size in the context of Agile.
 Prescribed B/IT Velocity tools should be flexible enough to allow for the communication of any adjacent steps to be compressed into a single deliverable, and content and ideas from one level must not be duplicated in works at other levels. 
 
 [^1]:  Engaging SMEs to find important nuances in stakeholder needs is a form of customer learning that can take time, and should not be confused with a loss of agility.  Quite the opposite, it should be considered a form of low cost “customer” learning.  See [Low Cost Customer Learning in IT Process.md](LowCostCustomerLearningInITProcess.md) 
+
+---
+
+© Paul Sons 2024

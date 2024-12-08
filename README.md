@@ -55,6 +55,10 @@ BIT Velocity defines the language to ask AI for enterprise systems.
 The full paper under development and review is accessible by share at [BIT Velocity](https://docs.google.com/document/d/16A7M_mAWR6LKpqcsbudi8hkGqpwjrN9BHx2nM9NtWPs/edit?tab=t.0) 
 
 [^1]:  [Team Scaling Impedence.md](foundation/TeamScalingImpedence.md)
-[Team Scaling Impedence.pdf](https://github.com/psons/bitvelocity/blob/main/foundation/Team%20Scaling%20Impedence.pdf) 
 
 [^2]:  BIT Velocity a concise overview see the prior work [Objects and Operations as a Foundation for Architecture as Code](https://docs.google.com/document/d/e/2PACX-1vSRF7F2hyf9xqWinrOzqCQYeexc3rwftPNVZuX_A2WZYFuNAxoCRZ8HiILA1mw-XRuA29jjSmTSf-20/pub)   
+
+---
+© Paul Sons 2024
+---
+
